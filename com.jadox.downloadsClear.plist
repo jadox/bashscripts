@@ -9,8 +9,6 @@
 			<string>clean_downloads_DB.sh</string>
 		</array>
 		<key>StartInterval</key>
-		<integer>60</integer>
-		<key>StartAtLoad</key>
-		<true/>
+		<integer>86400</integer>
 	</dict>
 </plist>
